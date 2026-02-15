@@ -48,3 +48,27 @@ This approach improves maintainability and mirrors industry-standard embedded de
 - Timer-based non-blocking GPIO toggling
 - Low-power sleep integration
 - Multi-instance GPIO support
+
+---
+
+## Development Context
+
+This firmware project was developed at the **IoT Innovation Lab**,  
+Department of Electronics and Communication Engineering,  
+**Chitkara University**.
+
+The work was completed as part of hands-on embedded systems learning
+and practical experimentation on real hardware platforms.
+
+---
+
+## Acknowledgements
+
+I would like to express my sincere gratitude to:
+
+- **Dr. Amit Kumar**
+- **Dr. Amarjeet Kaur**
+- **Mr. Rakesh Kumar**
+
+for their guidance, mentorship, and 
+
